@@ -5,9 +5,9 @@ O objetivo foi criar uma Landing Page para captura de Leads, salvando as informa
 
 # Tecnologias
 
--React
--HTML5
--CSS3
+- React
+- HTML5
+- CSS3
 
 # Instalação
 
@@ -20,5 +20,13 @@ $ npm install
 $ npm start
 
 Acesse localhost:3000 em seu browser
+
+# Acesse o projeto aqui:
+
+Clique neste [link](https://landingpage-bank.netlify.app/)
+
+# Screenshot
+
+![imagem](https://github.com/flavio-sipoli/landingPage-bank/blob/master/screenshot/screenshot.png)
 
 
