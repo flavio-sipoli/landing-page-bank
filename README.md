@@ -23,4 +23,4 @@ Acesse localhost:3000 em seu browser
 
 # Screenshot
 
-![image](./screenshot/screenshot.png)
+![image](screenshot/screenshot.png)
