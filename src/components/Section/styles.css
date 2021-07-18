@@ -1,0 +1,24 @@
+.section-info {
+    display: flex;
+    background-color: var(--cor1);
+    color: var(--cor3);
+    font-family: var(--fonte-padrao);
+}
+
+.section-box img {
+    margin: 10px;
+}
+
+.section-box h3 {
+    margin: 10px;
+}
+
+.section-box p {
+    margin: 10px;
+}
+
+@media (max-width: 430px) {
+    .section-info {
+        flex-wrap: wrap;
+    }
+}

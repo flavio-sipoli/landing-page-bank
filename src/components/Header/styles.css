@@ -1,0 +1,18 @@
+.header {
+    background-image: linear-gradient(to bottom, #1a665e, #36d96f);
+    height: 80px;
+}
+
+.box-logo {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 15px 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.box-logo img {
+    padding: 25px;
+}
